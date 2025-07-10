@@ -25,12 +25,12 @@ This is a fun and interactive 2D dragon survival game built using HTML, CSS, and
 
 ---
 
-## 🔧 Technologies Used
+🔧 Technologies Used
 
-- **HTML5**
-- **CSS3** (for styling and animation)
-- **JavaScript** (game logic)
-- **Audio** support
+- HTML5
+- CSS3 (for styling and animation)
+- JavaScript (game logic)
+- Audio support
 
 ---
 
@@ -38,9 +38,6 @@ This is a fun and interactive 2D dragon survival game built using HTML, CSS, and
 
 <img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/982f69b7-0a58-423b-9ec5-00b6140b9d22" />
 
-
-
 ---
 
 Author - Saniya Inamdar
-
